@@ -12,8 +12,7 @@
 
 
 # Установка и запуск
-+ Клонировать репозиторий гит
-  (git@github.com:omelaymy/FastApi_Nginx_Balancer.git)
++ Клонировать [репозиторий гит](git@github.com:omelaymy/FastApi_Nginx_Balancer.git)
 + Перейти в директорию проекта
 + Запустить скрипты
 
